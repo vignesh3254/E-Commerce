@@ -14,10 +14,6 @@ This is an e-commerce website built using Django. It includes features like prod
 4. Start the server: `python manage.py runserver`.
 5. Access the website at `http://127.0.0.1:8000/`.
 
-## Screenshots
-![Home Page](screenshots/home.png)
-![Cart Page](screenshots/cart.png)
-
 ## Technologies Used
 - Django
 - Bootstrap
